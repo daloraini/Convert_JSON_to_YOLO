@@ -1,3 +1,3 @@
 Convert_JSON_to_YOLO
 
-This project convert COCO JSON labeling format to YOLO txt format
+This script converts COCO JSON format to YOLO txt format
